@@ -1,1 +1,3 @@
-# prompt
+Please a proper name for the branch and PR Title and good description for the pr submission with a close on it to the upstream. Always remember in the description and pr do not include Claude as the author please or contributor.
+
+Note: Please move to implementations and creating the pr to the upstream fast. Please you will just write the code only and open one pr to the upstream repo and also note to use on branch. Please also when making the pr dont add authoured by claude or anything like that, keep it real please. Also make good pr closing all four issues well using independent Closes #issue_number.
